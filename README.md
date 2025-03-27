@@ -24,10 +24,6 @@ Visit a running version with a demo stop ID:
 
 http://localhost:5173/?stopIds=1_75403&title=University%20Way&refresh=20
 
-yaml
-Copy
-Edit
-
 Displays all upcoming buses at stop `1_75403`, with a custom title and a refresh interval of 20 seconds.
 
 ---
@@ -53,7 +49,7 @@ cd sign-mode-prototype
 `npm install`
 3. Run the development server
 `npm run dev`
-Open `http://localhost:5173` in your browser.
+Open http://localhost:5173 in your browser.
 
 🧪 Testing
 Manual testing across screen sizes and multiple stop IDs
