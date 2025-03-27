@@ -51,39 +51,30 @@ cd sign-mode-prototype
 `npm run dev`
 Open http://localhost:5173 in your browser.
 
-🧪 Testing
-Manual testing across screen sizes and multiple stop IDs
-
-Auto-refresh tested with various intervals
-
-Layout tested in landscape and portrait orientations
+## 🧪 Testing
+* Manual testing across screen sizes and multiple stop IDs
+* Auto-refresh tested with various intervals
+* Layout tested in landscape and portrait orientations
 
 Planned: unit tests for config parsing and display logic
 
-📦 Deployment
+## 📦 Deployment
 This app can be deployed easily to:
+* Vercel
+* Netlify
+* Self-hosted via Docker (coming soon)
 
-Vercel
+## 🗺 Roadmap
+* Add dark/light theme toggle
+* Offline fallback using cached data
+* Configuration UI for generating display URLs
+* QR code for mobile access
+* Accessibility and ARIA improvements
 
-Netlify
-
-Self-hosted via Docker (coming soon)
-
-🗺 Roadmap
-Add dark/light theme toggle
-
-Offline fallback using cached data
-
-Configuration UI for generating display URLs
-
-QR code for mobile access
-
-Accessibility and ARIA improvements
-
-📄 License
+## 📄 License
 MIT License
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 David Pak
 Computer Science student @ University of Washington
 Built as part of a proposal for Google Summer of Code 2025 with OneBusAway
