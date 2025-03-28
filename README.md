@@ -75,9 +75,6 @@ This app can be deployed easily to:
 * QR code for mobile access
 * Accessibility and ARIA improvements
 
-## 📄 License
-MIT License
-
 ## 🙋‍♂️ Author
 David Pak
 Computer Science student @ University of Washington
